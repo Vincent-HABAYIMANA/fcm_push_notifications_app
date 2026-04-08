@@ -19,8 +19,7 @@ fcm_app/
 │   │       └── AndroidManifest.xml
 │   └── build.gradle               # Google Services classpath
 ├── pubspec.yaml                   # Dependencies: firebase_core, firebase_messaging, flutter_local_notifications
-├── SETUP_GUIDE.pdf                # Complete step-by-step setup guide
-└── HANDWRITTEN_OBSERVATIONS_TEMPLATE.pdf  # Print & fill for submission
+
 ```
 
 ---

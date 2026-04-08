@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "955966260303",
+    "project_id": "fcml-67452",
+    "storage_bucket": "fcml-67452.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:955966260303:android:27c93bb9266d460621d63a",
+        "android_client_info": {
+          "package_name": "com.company.fcml"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCVJ6PZOonww2ljDO_W0nQcpVPogaxhwNk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:955966260303:android:f29f0de2106273dd21d63a",
+        "android_client_info": {
+          "package_name": "com.example.fcm_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCVJ6PZOonww2ljDO_W0nQcpVPogaxhwNk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
